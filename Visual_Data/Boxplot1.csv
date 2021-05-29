@@ -1,0 +1,16 @@
+Walc,guardian,Q1,Median,Q3,Min,Max
+Very Low,Mother,9,11,14,0,19
+Very Low,Father,10,12,14,5,10
+Very Low,Other,8,9.5,14,4,17
+Low,Mother,9.5,12,14,4,18
+Low,Father,10,12,13.5,6,18
+Low,Other,9,10,13,7,14
+Average,Mother,9,11,13.25,3,18
+Average,Father,9,12,14,5,17
+Average,Other,8.5,10,11,7,14
+High,Mother,9,10,12,5,17
+High,Father,9,10,12,6,17
+High,Other,8.75,10,10.5,8,13
+Very High,Mother,8,10,12,5,18
+Very High,Father,9.25,10,12.75,6,16
+Very High,Other,8,9,9.5,7,10
